@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.8" icons="true" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="true" nesting-relationships="true">  
+  <class id="1" language="java" name="Abilities" project="projekt-labirynt" file="/projekt-labirynt/src/Abilities.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="94" width="398" x="147" y="1005"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="Ability_Effect" project="projekt-labirynt" 
+    file="/projekt-labirynt/src/Abilities.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="94" width="237" x="107" y="1139"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="Database" project="projekt-labirynt" file="/projekt-labirynt/src/Database.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="76" width="87" x="107" y="611"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="Encounter" project="projekt-labirynt" file="/projekt-labirynt/src/Encounter.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="274" width="323" x="524" y="297"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="Enemy" project="projekt-labirynt" file="/projekt-labirynt/src/Enemy.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="94" width="213" x="147" y="799"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="Loot_Item" project="projekt-labirynt" file="/projekt-labirynt/src/Event.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="58" width="87" x="690" y="1309"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="Event" project="projekt-labirynt" file="/projekt-labirynt/src/Event.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="130" width="130" x="690" y="1139"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="Shield" project="projekt-labirynt" file="/projekt-labirynt/src/Items.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="94" width="191" x="417" y="1541"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="Weapon" project="projekt-labirynt" file="/projekt-labirynt/src/Items.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="87" x="648" y="1541"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="Items" project="projekt-labirynt" file="/projekt-labirynt/src/Items.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="94" width="173" x="648" y="1407"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="Armor" project="projekt-labirynt" file="/projekt-labirynt/src/Items.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="94" width="192" x="842" y="1541"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="Main" project="projekt-labirynt" file="/projekt-labirynt/src/Main.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="94" width="113" x="218" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="Labirynth" project="projekt-labirynt" file="/projekt-labirynt/src/Labirynth.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="166" width="187" x="690" y="799"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="Cell" project="projekt-labirynt" file="/projekt-labirynt/src/Labirynth.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="76" width="87" x="711" y="1005"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="MainFrame" project="projekt-labirynt" file="/projekt-labirynt/src/MainFrame.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="220" width="391" x="868" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="Pair" project="projekt-labirynt" file="/projekt-labirynt/src/Pair.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="94" width="104" x="547" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="Player" project="projekt-labirynt" file="/projekt-labirynt/src/Player.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="148" width="189" x="679" y="611"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="18">    
+    <bendpoint x="949" y="799"/>    
+    <bendpoint x="970" y="1005"/>    
+    <bendpoint x="970" y="1139"/>    
+    <bendpoint x="970" y="1309"/>    
+    <bendpoint x="970" y="1407"/>    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="19" name="armor"/>      
+      <multiplicity id="20" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="21">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="22" name="ulti_skills"/>      
+      <multiplicity id="23" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="24">    
+    <bendpoint x="970" y="297"/>    
+    <bendpoint x="970" y="611"/>    
+    <bendpoint x="970" y="799"/>    
+    <bendpoint x="949" y="1005"/>    
+    <bendpoint x="949" y="1139"/>    
+    <bendpoint x="928" y="1309"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="25" name="item_temp"/>      
+      <multiplicity id="26" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="27">    
+    <bendpoint x="533" y="611"/>    
+    <bendpoint x="533" y="799"/>    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="28" name="enemy_skill"/>      
+      <multiplicity id="29" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="30">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="31" name="on_stun_skills"/>      
+      <multiplicity id="32" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="33">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="34" name="effect"/>      
+      <multiplicity id="35" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="36">    
+    <bendpoint x="345" y="611"/>    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="37" name="enemy"/>      
+      <multiplicity id="38" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="39">    
+    <bendpoint x="638" y="611"/>    
+    <bendpoint x="638" y="799"/>    
+    <bendpoint x="680" y="1005"/>    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <association id="40">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="41" name="labirynth"/>      
+      <multiplicity id="42" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="43">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="44" name="event"/>      
+      <multiplicity id="45" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="46">    
+    <bendpoint x="116" y="799"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="47" name="ability_list"/>      
+      <multiplicity id="48" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="49">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <association id="50">    
+    <bendpoint x="554" y="799"/>    
+    <bendpoint x="617" y="1005"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="51" name="event_list"/>      
+      <multiplicity id="52" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="53">    
+    <bendpoint x="95" y="799"/>    
+    <bendpoint x="95" y="1005"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="54" name="effect_list"/>      
+      <multiplicity id="55" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="56">    
+    <bendpoint x="659" y="799"/>    
+    <bendpoint x="659" y="1005"/>    
+    <bendpoint x="659" y="1139"/>    
+    <bendpoint x="617" y="1309"/>    
+    <bendpoint x="617" y="1407"/>    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="57" name="shield"/>      
+      <multiplicity id="58" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="59">    
+    <bendpoint x="53" y="799"/>    
+    <bendpoint x="53" y="1005"/>    
+    <bendpoint x="53" y="1139"/>    
+    <bendpoint x="53" y="1309"/>    
+    <bendpoint x="53" y="1407"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="60" name="weapon_list"/>      
+      <multiplicity id="61" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="62">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <association id="63">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="64" name="player"/>      
+      <multiplicity id="65" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="66">    
+    <bendpoint x="575" y="799"/>    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="67" name="skills"/>      
+      <multiplicity id="68" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="69">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="70" name="dps_skills"/>      
+      <multiplicity id="71" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="72">    
+    <bendpoint x="116" y="1005"/>    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="73" name="effects"/>      
+      <multiplicity id="74" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="75">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="76" name="enemy_list"/>      
+      <multiplicity id="77" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="78">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="79" name="battle_field"/>      
+      <multiplicity id="80" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="81">    
+    <bendpoint x="928" y="799"/>    
+    <bendpoint x="928" y="1005"/>    
+    <bendpoint x="928" y="1139"/>    
+    <bendpoint x="949" y="1309"/>    
+    <bendpoint x="949" y="1407"/>    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="82" name="weapon1"/>      
+      <multiplicity id="83" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="84">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="85" name="item"/>      
+      <multiplicity id="86" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="87">    
+    <bendpoint x="493" y="297"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="88" name="data"/>      
+      <multiplicity id="89" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="90">    
+    <bendpoint x="596" y="611"/>    
+    <bendpoint x="596" y="799"/>    
+    <bendpoint x="638" y="1005"/>    
+    <bendpoint x="638" y="1139"/>    
+    <bendpoint x="638" y="1309"/>    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="91" name="item"/>      
+      <multiplicity id="92" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="93">    
+    <bendpoint x="617" y="799"/>    
+    <bendpoint x="596" y="1005"/>    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="94" name="effects"/>      
+      <multiplicity id="95" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="96">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="97" name="data"/>      
+      <multiplicity id="98" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="99">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <association id="100">    
+    <bendpoint x="74" y="799"/>    
+    <bendpoint x="74" y="1005"/>    
+    <bendpoint x="74" y="1139"/>    
+    <bendpoint x="74" y="1309"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="101" name="item_list"/>      
+      <multiplicity id="102" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="103">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="104" name="maze"/>      
+      <multiplicity id="105" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="106">    
+    <bendpoint x="512" y="799"/>    
+    <bendpoint x="575" y="1005"/>    
+    <bendpoint x="617" y="1139"/>    
+    <bendpoint x="659" y="1309"/>    
+    <bendpoint x="851" y="1407"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="107" name="armor_list"/>      
+      <multiplicity id="108" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="109">    
+    <bendpoint x="877" y="297"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="110" name="player"/>      
+      <multiplicity id="111" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="112">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <association id="113">    
+    <bendpoint x="32" y="799"/>    
+    <bendpoint x="32" y="1005"/>    
+    <bendpoint x="32" y="1139"/>    
+    <bendpoint x="32" y="1309"/>    
+    <bendpoint x="32" y="1407"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="114" name="shield_list"/>      
+      <multiplicity id="115" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="116">    
+    <bendpoint x="898" y="297"/>    
+    <bendpoint x="898" y="611"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="117" name="game_field"/>      
+      <multiplicity id="118" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="119">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="120" name="deffensive_skills"/>      
+      <multiplicity id="121" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="122">    
+    <bendpoint x="907" y="799"/>    
+    <bendpoint x="907" y="1005"/>    
+    <bendpoint x="907" y="1139"/>    
+    <bendpoint x="907" y="1309"/>    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="123" name="bag"/>      
+      <multiplicity id="124" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="false" package="false" protected="false" private="false" static="true"/>    
+    <operations public="false" package="false" protected="false" private="false" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

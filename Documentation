@@ -1,0 +1,31 @@
+Autor: Anna Zaj¹c
+Projekt: Labirynth
+
+Description: RPG game. Player is stuck inside labirynth, objective of game
+is to escape from labirynth and to aquire as much gold as possible. 
+Game features turn based combat and character development.
+
+
+
+Class Description:
+	a)Main: just a main class. It only runs a program
+	b)Main Frame: Graphical Interface, have methods that modify/controll gui
+	c)Database: Doesn't have any method. Constructor automaticly creates list of all static objects 
+	like items/enemies/abilities
+	d)Cell: Class that defines single room of labirynth 
+	e)Labirynth: Contains 2 dimenssional array of cell objects, that function as labirynth. 
+	Also contains method of generating said labirynth.
+	f)Items: Contains deffinition of Item object
+	g)Weapon/Shield/Armor: Extends item class. Nothing much to say about that.
+	h)Enemy: Defines Enemy npc objects.
+	i)Event: Defines Event object
+	j)Loot Item: Exteds event. It's special event that grants item.
+	k)Encounter: Extends event. It's special event that handdles combat system. Includes methods that simulates one turn
+	of combat.
+	l)Player: Defines Player object. Contains every important variable in game,
+	 (generated labirynth object among other things). - Player objects can be used as game saves.
+	Also implements methods to move throug labirynth
+	m) Abilities: Defines Ability objects
+	n) Ability_Effects: Defines Effects of Abilities
+	o)Pair: Class that defines pair of objects - not directly connected to rest of project, is used only in database class
+Class count: 17
